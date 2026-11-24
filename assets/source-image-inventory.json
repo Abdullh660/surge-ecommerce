@@ -1,0 +1,914 @@
+{
+  "urls": {
+    "https://lh3.googleusercontent.com/aida/ALJJyrAo2rBg_nFp4e_OlK9efkfFzJa8JSzEJnod0iYKNAfsdR0ks25YFgu3Lj4kXkyCz2w8Rmer88dGSG1qnhQGcOt7YNevARmZNwi3hOvVSYLi0rQPEPt5hQXtoctfyNCQHxmS_W0XhVUV3bPNqHW3gA9q8fAZk6P19GSrgBafuvqV-3TcbLXBH2NnYGWKgT8i-oP5tO8Lu3pre2qEHCW9hj3RAN3L0Q15YF7n4pDo1R1Wj-k6RZ2Mo3ssU_Xg": [
+      {
+        "file": "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_10\\code.html",
+        "alt": "تشكيلة منتجات عصرية مختارة من متاجر Surge"
+      },
+      {
+        "file": "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_14\\code.html",
+        "alt": "منتجات مختارة من متاجر Surge"
+      },
+      {
+        "file": "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_1\\code.html",
+        "alt": "تشكيلة منتجات عصرية مختارة من متاجر Surge"
+      },
+      {
+        "file": "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_2\\code.html",
+        "alt": "منتجات مختارة من متاجر Surge"
+      }
+    ],
+    "https://lh3.googleusercontent.com/aida/ALJJyrA496gMgJxloe7UHKkZUhE4FQrgXfLKhy7nl6UBL2QP1oaPafeKwS0l5eehPzBCHMtC2Xu58Dpo5y2X7WYP99JORjiAIQ67o1YopoSBsPOHVTtp5apFdpyjcNDGf4YjHwz2PTAqMdDVbRWHg4po0otRmSgR_52mja_g6h7-kph3g0QTJ8tRBs_EUHx1A5Vn7D_MfYx2adhsPolM5GG1gX1W7u7o5oCCmWaPAP6oMmPayGk752ljbw": [
+      {
+        "file": "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_10\\code.html",
+        "alt": "عطر عود ملكي فاخر 100 مل"
+      },
+      {
+        "file": "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_11\\code.html",
+        "alt": "عطر عود ملكي"
+      },
+      {
+        "file": "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_13\\code.html",
+        "alt": "عطر عود ملكي"
+      },
+      {
+        "file": "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_14\\code.html",
+        "alt": "عطر عود ملكي"
+      },
+      {
+        "file": "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_6\\code.html",
+        "alt": "عطر عود ملكي"
+      },
+      {
+        "file": "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_7\\code.html",
+        "alt": "عطر عود ملكي"
+      },
+      {
+        "file": "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_9\\code.html",
+        "alt": "عطر عود ملكي"
+      },
+      {
+        "file": "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_1\\code.html",
+        "alt": "عطر عود ملكي فاخر 100 مل"
+      },
+      {
+        "file": "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_2\\code.html",
+        "alt": "عطر عود ملكي"
+      },
+      {
+        "file": "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_3\\code.html",
+        "alt": "عطر عود ملكي"
+      },
+      {
+        "file": "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_5\\code.html",
+        "alt": "عطر عود ملكي"
+      }
+    ],
+    "https://lh3.googleusercontent.com/aida/ALJJyrBF3z6-4mHFCvSmoG_gXH3qKfMoa7QNMJW7h1fbLbWF0371XodmrqwfvZHSwcSGRh73skQAlgne-yMEJ4tMahpu_InfWyHsxrBk5NDxwZkcN387tANz6iSs46URr-JADxQWq-YBAaUQHYKsxJsas5cGDz9MktU57U2DsuATic7YZnEPCAT9CI23HME9viVmayYmotg8-U1QwJDP7H--pAGElIOCGtINRBZOllOVMKnTYDxX1pcH8uRZ": [
+      {
+        "file": "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_10\\code.html",
+        "alt": "ماكينة تحضير الإسبريسو المنزلية"
+      },
+      {
+        "file": "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_11\\code.html",
+        "alt": "ماكينة إسبريسو"
+      },
+      {
+        "file": "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_13\\code.html",
+        "alt": "ماكينة إسبريسو"
+      },
+      {
+        "file": "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_7\\code.html",
+        "alt": "ماكينة إسبريسو"
+      },
+      {
+        "file": "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_1\\code.html",
+        "alt": "ماكينة تحضير الإسبريسو المنزلية"
+      },
+      {
+        "file": "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_3\\code.html",
+        "alt": "ماكينة إسبريسو"
+      },
+      {
+        "file": "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_5\\code.html",
+        "alt": "ماكينة إسبريسو"
+      },
+      {
+        "file": "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_6\\code.html",
+        "alt": "ماكينة إسبريسو"
+      }
+    ],
+    "https://lh3.googleusercontent.com/aida/ALJJyrBtpT-6VgBv2_sfwfur53_2SdRn34WA17PXGU77ex-G8ECJzkpYropkXZ3j0ZC7CVE9X9YVcoUcqEZnqvExulk7c2o7-7sT5fY_L6-I1pkbhGj3X4aPzi7e8wbGzPc10e3mpFb6KwFkqfnEWp9Cwa93h8hdy1PAFAEuw_XttF7XjTPH4hM-iAz-wWptn8Gi7V8PsrzzBGqFq-9_r4NCBS8vuZumTYKiLEG2wX3VVmE9GlSF4IxIjLY": [
+      {
+        "file": "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_10\\code.html",
+        "alt": "حذاء جري رياضي خفيف الوزن"
+      },
+      {
+        "file": "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_7\\code.html",
+        "alt": "حذاء جري رياضي"
+      }
+    ],
+    "https://lh3.googleusercontent.com/aida/ALJJyrBr5T_-13616VQc2TAgJliIr2J6hV6tmvpV6BVWass_IAe3AlX92dsc_1KpipBiC5986pb3CiAFylZTsYlLOkQqmqLnB9oBl78_Ibd-52WNZWsmnIoGzdc1mDJxjmaaUW6mggddhBCmyIPuQ4b8_yboigsTa2tarrYO7wFkN_hi1Rm8Ry5CCyFaM1r-7KywXEfA_JXnDQOOL6d3EoOulmn5Dyl3QJrUPy5Vy-1XjE9V6G10IUJ6LPAg6cto": [
+      {
+        "file": "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_10\\code.html",
+        "alt": "أجهزة ذكية وإلكترونيات حديثة"
+      },
+      {
+        "file": "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_1\\code.html",
+        "alt": "أجهزة ذكية وإلكترونيات حديثة"
+      }
+    ],
+    "https://lh3.googleusercontent.com/aida/ALJJyrDA-GYfH3NwhBVLRMF7i16305JFuzAUOcgAasGFMLeuoeelnGtb4WuK6qbH7F4WD9--qbm7Dl0_E06D1n9hUYpnjW3jWGJdlA5gON0TWA-PS50YSM_AyWlTfWENqzyOCtk3i9LRj-nulwfe3POOhJeDg5kyoNHGQkfbyxCloSC-mElfvPeS7PnbD4LEC5L5ULySuyzVHW2e-5596xHNdwGCdgQnhQFohnD8B-WW544AbrxFw_JA4nxq5B1jALYOSw": [
+      {
+        "file": "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_10\\code.html",
+        "alt": "ديكور منزلي عصري وإضاءة دافئة"
+      },
+      {
+        "file": "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_1\\code.html",
+        "alt": "ديكور منزلي عصري وإضاءة دافئة"
+      }
+    ],
+    "https://lh3.googleusercontent.com/aida/ALJJyrBSj9mtZQgs7fn4EOoBjx3gEE0eB7zecpoSvx9-pXntwflxhI93_M7ensfOec5STXFC5fnK3yUzf2DSrYYkrgdu3PODzPaywAPU7dy0z0eDf3jp2SCWBQ-ywFWPdCGkmjBInnbZJUFs2ML1dA17mdgboqaIX3Eh711VCwXts9U0wCLC9GG11Lk-NUf-JyVlX-3acZSMusBQDuiv1oQNRKuiPxcdCWxnWQLloOjejHrooVKvvf98k_PRg18": [
+      {
+        "file": "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_10\\code.html",
+        "alt": "ساعة ذكية تيتانيوم مقاومة للماء"
+      },
+      {
+        "file": "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_11\\code.html",
+        "alt": "ساعة ذكية تيتانيوم"
+      },
+      {
+        "file": "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_14\\code.html",
+        "alt": "ساعة ذكية تيتانيوم"
+      },
+      {
+        "file": "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_4\\code.html",
+        "alt": "ساعة ذكية تيتانيوم"
+      },
+      {
+        "file": "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_5\\code.html",
+        "alt": "ساعة ذكية"
+      },
+      {
+        "file": "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_7\\code.html",
+        "alt": "ساعة ذكية تيتانيوم"
+      },
+      {
+        "file": "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_1\\code.html",
+        "alt": "ساعة ذكية تيتانيوم مقاومة للماء"
+      },
+      {
+        "file": "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_10\\code.html",
+        "alt": "ساعة ذكية"
+      },
+      {
+        "file": "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_2\\code.html",
+        "alt": "ساعة ذكية تيتانيوم"
+      },
+      {
+        "file": "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_3\\code.html",
+        "alt": "ساعة ذكية تيتانيوم"
+      },
+      {
+        "file": "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_5\\code.html",
+        "alt": "ساعة ذكية تيتانيوم"
+      },
+      {
+        "file": "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_9\\code.html",
+        "alt": "ساعة ذكية تيتانيوم"
+      }
+    ],
+    "https://lh3.googleusercontent.com/aida/ALJJyrANZBvBdJUkkQfIUzb8_xA3IrGuj5rTylW1YZ-sPp3OtMdnhhYlLvAwyhQ4HnrBu4uAYRx3-rtu1lctIlQlpMRJKLYRpZvvjzO5haqsWlzlcbJBQdLh1eB6NxHf8UsEWZyjRUY81vmQxDGT9Ani4bG2T1t2r-uvdjvo7_Yizkpl1jtygOoSNQWDsHgLHikCjOpgZh_n1YMTaGf5TupqefjxrlFfVaB0za3QSL3fyFQCfOqRIHqAyqF7pk8": [
+      {
+        "file": "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_10\\code.html",
+        "alt": "صندوق ضيافة تمور فاخرة وقهوة عربية"
+      },
+      {
+        "file": "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_11\\code.html",
+        "alt": "صندوق ضيافة تمور"
+      },
+      {
+        "file": "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_14\\code.html",
+        "alt": "صندوق ضيافة تمور"
+      }
+    ],
+    "https://lh3.googleusercontent.com/aida/ALJJyrDwHNN1PKmLUQnX_uZAG7EiEQ-1dJ-rbpSV6d1K7Lcz36CkPWOCbVTawPx0rjVUkumlZatRcwCMcCaX1ZgiX9aRooicrSARyNGCZ73uy5ab2Ted_K8W7PMcRWrQBA7iHKtlZ7RH2OdwNfMqELbaQGpHkGFRqN5mk21AiXXEW7yyIqnTFfTPgAD6mptf9IYYrtyR92Jj8YVtUzUy2amuwgQxIOh4IzCGZaU14cCjRPrY54fVvciootE": [
+      {
+        "file": "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_10\\code.html",
+        "alt": "سيروم فيتامين سي وكريم مرطب للبشرة"
+      }
+    ],
+    "https://lh3.googleusercontent.com/aida/ALJJyrAs_IfdqFxuEHVQAmF8Fe9Mobp78klxVuH0MR9PRZJMc0pryFqKTUHGinXy3Bj4DTLKkCPQCvVJRcl2pLcv_SdXjvZfXnycdIvtsV1MMUsKwlRCC8BKUiTLhIymUt4V7TA9GLw-LaQi1Urlm4B_RBq3YLAXnyicvrcUW8EnUs5jYrvf9ZKOaV5ZWCUfuHvMpkbcAkLSuQNT99PMwAmqV0NVy7aaHSEqJPh3F9eBU8Emnr7k2XA": [
+      {
+        "file": "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_10\\code.html",
+        "alt": "كرسي استرخاء خشب البلوط وقماش بوكليه"
+      },
+      {
+        "file": "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_11\\code.html",
+        "alt": "كرسي استرخاء"
+      },
+      {
+        "file": "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_13\\code.html",
+        "alt": "كرسي استرخاء"
+      },
+      {
+        "file": "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_1\\code.html",
+        "alt": "كرسي استرخاء خشب البلوط وقماش بوكليه"
+      },
+      {
+        "file": "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_5\\code.html",
+        "alt": "كرسي استرخاء"
+      },
+      {
+        "file": "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_6\\code.html",
+        "alt": "كرسي استرخاء"
+      }
+    ],
+    "https://lh3.googleusercontent.com/aida/ALJJyrBSH3Iyyi8QvOxbGbLi7ekHJ3H36uyRTUunwGzrwVmMbJwZjiLwVXBSK64MZ-S_Th9aF2Mo2VTtPO82nqUG_K9lbCtitSTRZ1Rsu-oDjvf0k85Gw7I4BYMF2iodtOC3fgJ8hnIvk55Kq1jYJqfCZfJExL7ViD1KIegqMrmVa4qKef9WsdnNQBlOgEesJ9rxjlI5WmYXhaH6TATz2MgpGr_uXDdKKznQl_5BmeHLktcz7dogBrYmcRtPJCQA": [
+      {
+        "file": "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_10\\code.html",
+        "alt": "غلاف متجر عالم التقنية"
+      },
+      {
+        "file": "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_3\\code.html",
+        "alt": "عالم التقنية"
+      },
+      {
+        "file": "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_4\\code.html",
+        "alt": "غلاف متجر عالم التقنية"
+      },
+      {
+        "file": "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_5\\code.html",
+        "alt": "عالم التقنية"
+      },
+      {
+        "file": "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_8\\code.html",
+        "alt": "عالم التقنية"
+      },
+      {
+        "file": "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_1\\code.html",
+        "alt": "غلاف متجر عالم التقنية"
+      },
+      {
+        "file": "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_10\\code.html",
+        "alt": "عالم التقنية"
+      },
+      {
+        "file": "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_7\\code.html",
+        "alt": "عالم التقنية"
+      },
+      {
+        "file": "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_8\\code.html",
+        "alt": "عالم التقنية"
+      },
+      {
+        "file": "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_9\\code.html",
+        "alt": "غلاف متجر عالم التقنية"
+      }
+    ],
+    "https://lh3.googleusercontent.com/aida/ALJJyrD_ptz5mC5c7Azj7P4HmNAnBusk4m-iUXciLCgxFkXn2fyAABnCj43HSn6ImtTEXK2dzyhOK5PagMW_1gHYScPYH9hBXQXwj0YPfN_BpQxN1qneeEz1BCI-eI7Sqth5as3jF1R01uaHSWbZ4WvubTfph1ggTMjAieWinkg9DGQ0tkbAi5Wh_6hkBJi58RE6pSYP3rlZlHHHfkFtSEn_WkCnd8k-QwaYly7T3sAFD23SdvfYUWrIGWJ8jIfvRz2C": [
+      {
+        "file": "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_10\\code.html",
+        "alt": "غلاف متجر لمسة للعطور"
+      },
+      {
+        "file": "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_3\\code.html",
+        "alt": "لمسة للعطور"
+      },
+      {
+        "file": "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_8\\code.html",
+        "alt": "لمسة للعطور"
+      },
+      {
+        "file": "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_1\\code.html",
+        "alt": "غلاف متجر لمسة للعطور"
+      },
+      {
+        "file": "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_7\\code.html",
+        "alt": "لمسة للعطور"
+      },
+      {
+        "file": "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_8\\code.html",
+        "alt": "لمسة للعطور"
+      }
+    ],
+    "https://lh3.googleusercontent.com/aida/ALJJyrBeTJRD37_XrcDmdGfNyy_L1iL76-TzhQt8DPkHkQU4vLo83mB0e3OsumvJAIW8r97s3cR0-h5bqXF7HJ_rK0sLxA6FBXKMQb1rapnjNATVGZuwiZShiJtTAsFP3W6i8v9ihfzk5VIiH0H7FhacV0hKLAY3xDz82vh2JcOqqkkocalVYvZ_L0mkmGN9QoqXwm8X6ztP8PBQ30D-xZ2RmxA8jEzAqdTHxgSItKr3noKjcqGKLRkSuH9s-daa": [
+      {
+        "file": "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_10\\code.html",
+        "alt": "غلاف متجر بيتي للأثاث"
+      },
+      {
+        "file": "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_3\\code.html",
+        "alt": "بيتي للأثاث"
+      },
+      {
+        "file": "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_8\\code.html",
+        "alt": "بيتي للأثاث"
+      },
+      {
+        "file": "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_1\\code.html",
+        "alt": "غلاف متجر بيتي للأثاث"
+      },
+      {
+        "file": "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_7\\code.html",
+        "alt": "بيتي للأثاث"
+      },
+      {
+        "file": "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_8\\code.html",
+        "alt": "بيتي للأثاث"
+      }
+    ],
+    "https://lh3.googleusercontent.com/aida/ALJJyrBqutIDYy67J9UeC1mjv-fMnNxfotY4ydhwjbEom8YhWSyGIeOrwvLi5HpBguLr9KWgjpP37nyVXkegIxvW0KhTcVduZe-tIQIsoTDvgXEq_IOjU69hXNXQNluDPHjdP_iSTB4WQIy9TyCtLBxkmBPS3r95FDLacGrI3X8M6VUfALVNhJujvwI-kJvgu6s_RW7NRlJyfYVusbuUUIsBJ5ifZ2UT7e6K50X6kAQy968idTX_iOHqdvJN34Y": [
+      {
+        "file": "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_12\\code.html",
+        "alt": "منظور أمامي"
+      },
+      {
+        "file": "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_7\\code.html",
+        "alt": "المنظور الأمامي للسماعة"
+      },
+      {
+        "file": "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_1\\code.html",
+        "alt": "سماعة لاسلكية عازلة للضوضاء برو"
+      },
+      {
+        "file": "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_11\\code.html",
+        "alt": "سماعة لاسلكية برو"
+      },
+      {
+        "file": "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_12\\code.html",
+        "alt": "سماعة برو"
+      },
+      {
+        "file": "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_2\\code.html",
+        "alt": "سماعة لاسلكية برو"
+      },
+      {
+        "file": "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_3\\code.html",
+        "alt": "سماعة لاسلكية عازلة للضوضاء برو"
+      },
+      {
+        "file": "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_3\\code.html",
+        "alt": "المنظور الأمامي للسماعة"
+      },
+      {
+        "file": "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_4\\code.html",
+        "alt": "سماعة لاسلكية عازلة للضوضاء برو"
+      },
+      {
+        "file": "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_4\\code.html",
+        "alt": "منظور أمامي"
+      },
+      {
+        "file": "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_5\\code.html",
+        "alt": "سماعة لاسلكية برو"
+      },
+      {
+        "file": "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_6\\code.html",
+        "alt": "سماعة لاسلكية"
+      },
+      {
+        "file": "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_9\\code.html",
+        "alt": "سماعة لاسلكية برو"
+      }
+    ],
+    "https://lh3.googleusercontent.com/aida/ALJJyrCO08qjYVL0PPvU-jRnt3EoRvKMc9fbVM2yqED-5PnYqrcaHW7SoBehNWtweNjQ_TThJFRf_LoRyed9kRoy7a6kALDcpQOCqJbAz2k1GwZha72XRzYWAhAaMbc8sWLYHRH1DzTg29Ukvjid4ThcS2259wR6r9goK5OhBB2hb-1422JxGWZqGDLmlfIEg6sUR2MaTRr26jL7ypX2i45xAsgu0rGvCKBRGdqGALxNL5u6OUJ6uzyPAuCBiGTlnTwT": [
+      {
+        "file": "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_12\\code.html",
+        "alt": "منظور جانبي"
+      },
+      {
+        "file": "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_4\\code.html",
+        "alt": "سماعة استوديو"
+      },
+      {
+        "file": "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_7\\code.html",
+        "alt": "المنظور الجانبي للسماعة"
+      }
+    ],
+    "https://lh3.googleusercontent.com/aida/ALJJyrDt8wrFbwY017sIgxsV2jmMobO3tbnXNX3zIDCOS_K4hZxPA0cYipRcH5ch12QW7ByJI5KrwX7N-GAQ1hXukDuwN90WQSmzFQR7TRt8HwOf6G0finCytiKQSqp2b_NqPhX2oQX5gCBsn8l1DSihfwM-GG7oIX_8FaEZ_akxGF3GeoRxmvFn_ANcgQoBXl1-THer7Zh-FIU9z-Cr6vS2Y06HFgLH-IwKH4r8cVo8kKHJtC-VRizqOS_iBQyHEF73KA": [
+      {
+        "file": "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_12\\code.html",
+        "alt": "حقيبة السفر"
+      },
+      {
+        "file": "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_4\\code.html",
+        "alt": "حقيبة حماية للسماعات"
+      },
+      {
+        "file": "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_7\\code.html",
+        "alt": "حقيبة السفر والكابل المرفق"
+      },
+      {
+        "file": "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_3\\code.html",
+        "alt": "حقيبة السفر والكابل المرفق"
+      },
+      {
+        "file": "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_4\\code.html",
+        "alt": "حقيبة السفر"
+      },
+      {
+        "file": "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_9\\code.html",
+        "alt": "حقيبة حماية للسماعات"
+      }
+    ],
+    "https://lh3.googleusercontent.com/aida/ALJJyrBbUq7aTHhEeNGjuBq0RTOOPYWzfkReNIK9iD1MdlQfsRiNLZg5aQh5NJjnSguAJaOYbafd5KCSmtT3_u2DraF7qAp82qy5h4KJ62IbfaPLSz_aB2WTgv_1_QYFS9upSXXDh44DXwadQEgTzPyr7Ciib8HrTRk3RHqEDRrTURS1qKhT2YoPyPj7mSdQR8DTdemqAjm6Frq9Kr16XlrT6l4XeeMcB_wLjI5j4umr76RVvHl85aApOX93lMYrcgWQzT7x": [
+      {
+        "file": "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_12\\code.html",
+        "alt": "وسادة الأذن"
+      },
+      {
+        "file": "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_7\\code.html",
+        "alt": "تفاصيل وسادة الأذن المريحة"
+      }
+    ],
+    "https://lh3.googleusercontent.com/aida/ALJJyrAgfJHCcWfH75F8i5aFgTyg2pXdLdYoYAk1rV6BT66CXI3CV2bqyMfqV_c0B99l2-ombIceEkDDTuMSHqIKgpIohPKQ-2xf4kxSwHGBXDhW9Oe86BRGbFOyjIEMCUM2xFHfZEO9HEaKx5gaWWxhTmTH2-U2ot1ELDPHCRx5TqShu9d80vHEeKMVccvMzdaIosneNcwUXkGTkWH_e3qr3iLkuOBBSymyu87fEtoe1CFOzFYu_I-o9GA": [
+      {
+        "file": "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_1\\code.html",
+        "alt": "حذاء جري رياضي خفيف الوزن"
+      },
+      {
+        "file": "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_3\\code.html",
+        "alt": "حذاء جري رياضي"
+      }
+    ],
+    "https://lh3.googleusercontent.com/aida/ALJJyrBg2qn8k7WoFIvnsEOY4wrefnsrkeazWXN7WxIkmR0c48GHfNF_lWfGXhtg7-NOm5smW0oB-Hs_SAJlvRpHkrY2r12CFDTwH0kONe_O0NHb-AgWpY05_YpbWpoJl4viP_3ulwyN1VvM3jn--g8_ukoGeq7A8o-mleWKq3fcHK9cpbIeNZF1ovQ-vQfnWqRj9uBmQjXbN9O25frB92hhvjN8We3d3lhyc11dbduX8VSr8LB7_MxWwF4": [
+      {
+        "file": "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_1\\code.html",
+        "alt": "سيروم فيتامين سي وكريم مرطب للبشرة"
+      }
+    ],
+    "https://lh3.googleusercontent.com/aida/ALJJyrA7VBeu7-zudYLnVDHbABmYeZlhqfR0Mb4f-H8eK3rtJuQzvzGhlteXLkMQm9qpvEXOsPbNt_ss7pJRB1ROR0gOjaKF_QLlVOzNL2oKw63K23vVC7xUGVONUupi2x5cIm0PnFUjtnWg8HsCTB4M1NvNClQbEsjT40aHehvImV0bx10d452j6b2EXdJkmkwqsnfCYuBEBpUfeuRI4leBjQnFZ5rSLmWmMdTK8VEM-0LARkoUpPo6V9DPJyxqU_ZoYUd6": [
+      {
+        "file": "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_3\\code.html",
+        "alt": "تفاصيل وسادة الأذن المريحة"
+      },
+      {
+        "file": "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_4\\code.html",
+        "alt": "وسادة الأذن"
+      }
+    ]
+  },
+  "pages": {
+    "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_1\\code.html": [],
+    "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_10\\code.html": [
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrAo2rBg_nFp4e_OlK9efkfFzJa8JSzEJnod0iYKNAfsdR0ks25YFgu3Lj4kXkyCz2w8Rmer88dGSG1qnhQGcOt7YNevARmZNwi3hOvVSYLi0rQPEPt5hQXtoctfyNCQHxmS_W0XhVUV3bPNqHW3gA9q8fAZk6P19GSrgBafuvqV-3TcbLXBH2NnYGWKgT8i-oP5tO8Lu3pre2qEHCW9hj3RAN3L0Q15YF7n4pDo1R1Wj-k6RZ2Mo3ssU_Xg",
+        "alt": "تشكيلة منتجات عصرية مختارة من متاجر Surge"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrA496gMgJxloe7UHKkZUhE4FQrgXfLKhy7nl6UBL2QP1oaPafeKwS0l5eehPzBCHMtC2Xu58Dpo5y2X7WYP99JORjiAIQ67o1YopoSBsPOHVTtp5apFdpyjcNDGf4YjHwz2PTAqMdDVbRWHg4po0otRmSgR_52mja_g6h7-kph3g0QTJ8tRBs_EUHx1A5Vn7D_MfYx2adhsPolM5GG1gX1W7u7o5oCCmWaPAP6oMmPayGk752ljbw",
+        "alt": "عطر عود ملكي فاخر 100 مل"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrBF3z6-4mHFCvSmoG_gXH3qKfMoa7QNMJW7h1fbLbWF0371XodmrqwfvZHSwcSGRh73skQAlgne-yMEJ4tMahpu_InfWyHsxrBk5NDxwZkcN387tANz6iSs46URr-JADxQWq-YBAaUQHYKsxJsas5cGDz9MktU57U2DsuATic7YZnEPCAT9CI23HME9viVmayYmotg8-U1QwJDP7H--pAGElIOCGtINRBZOllOVMKnTYDxX1pcH8uRZ",
+        "alt": "ماكينة تحضير الإسبريسو المنزلية"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrBtpT-6VgBv2_sfwfur53_2SdRn34WA17PXGU77ex-G8ECJzkpYropkXZ3j0ZC7CVE9X9YVcoUcqEZnqvExulk7c2o7-7sT5fY_L6-I1pkbhGj3X4aPzi7e8wbGzPc10e3mpFb6KwFkqfnEWp9Cwa93h8hdy1PAFAEuw_XttF7XjTPH4hM-iAz-wWptn8Gi7V8PsrzzBGqFq-9_r4NCBS8vuZumTYKiLEG2wX3VVmE9GlSF4IxIjLY",
+        "alt": "حذاء جري رياضي خفيف الوزن"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrBr5T_-13616VQc2TAgJliIr2J6hV6tmvpV6BVWass_IAe3AlX92dsc_1KpipBiC5986pb3CiAFylZTsYlLOkQqmqLnB9oBl78_Ibd-52WNZWsmnIoGzdc1mDJxjmaaUW6mggddhBCmyIPuQ4b8_yboigsTa2tarrYO7wFkN_hi1Rm8Ry5CCyFaM1r-7KywXEfA_JXnDQOOL6d3EoOulmn5Dyl3QJrUPy5Vy-1XjE9V6G10IUJ6LPAg6cto",
+        "alt": "أجهزة ذكية وإلكترونيات حديثة"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrDA-GYfH3NwhBVLRMF7i16305JFuzAUOcgAasGFMLeuoeelnGtb4WuK6qbH7F4WD9--qbm7Dl0_E06D1n9hUYpnjW3jWGJdlA5gON0TWA-PS50YSM_AyWlTfWENqzyOCtk3i9LRj-nulwfe3POOhJeDg5kyoNHGQkfbyxCloSC-mElfvPeS7PnbD4LEC5L5ULySuyzVHW2e-5596xHNdwGCdgQnhQFohnD8B-WW544AbrxFw_JA4nxq5B1jALYOSw",
+        "alt": "ديكور منزلي عصري وإضاءة دافئة"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrBSj9mtZQgs7fn4EOoBjx3gEE0eB7zecpoSvx9-pXntwflxhI93_M7ensfOec5STXFC5fnK3yUzf2DSrYYkrgdu3PODzPaywAPU7dy0z0eDf3jp2SCWBQ-ywFWPdCGkmjBInnbZJUFs2ML1dA17mdgboqaIX3Eh711VCwXts9U0wCLC9GG11Lk-NUf-JyVlX-3acZSMusBQDuiv1oQNRKuiPxcdCWxnWQLloOjejHrooVKvvf98k_PRg18",
+        "alt": "ساعة ذكية تيتانيوم مقاومة للماء"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrANZBvBdJUkkQfIUzb8_xA3IrGuj5rTylW1YZ-sPp3OtMdnhhYlLvAwyhQ4HnrBu4uAYRx3-rtu1lctIlQlpMRJKLYRpZvvjzO5haqsWlzlcbJBQdLh1eB6NxHf8UsEWZyjRUY81vmQxDGT9Ani4bG2T1t2r-uvdjvo7_Yizkpl1jtygOoSNQWDsHgLHikCjOpgZh_n1YMTaGf5TupqefjxrlFfVaB0za3QSL3fyFQCfOqRIHqAyqF7pk8",
+        "alt": "صندوق ضيافة تمور فاخرة وقهوة عربية"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrDwHNN1PKmLUQnX_uZAG7EiEQ-1dJ-rbpSV6d1K7Lcz36CkPWOCbVTawPx0rjVUkumlZatRcwCMcCaX1ZgiX9aRooicrSARyNGCZ73uy5ab2Ted_K8W7PMcRWrQBA7iHKtlZ7RH2OdwNfMqELbaQGpHkGFRqN5mk21AiXXEW7yyIqnTFfTPgAD6mptf9IYYrtyR92Jj8YVtUzUy2amuwgQxIOh4IzCGZaU14cCjRPrY54fVvciootE",
+        "alt": "سيروم فيتامين سي وكريم مرطب للبشرة"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrAs_IfdqFxuEHVQAmF8Fe9Mobp78klxVuH0MR9PRZJMc0pryFqKTUHGinXy3Bj4DTLKkCPQCvVJRcl2pLcv_SdXjvZfXnycdIvtsV1MMUsKwlRCC8BKUiTLhIymUt4V7TA9GLw-LaQi1Urlm4B_RBq3YLAXnyicvrcUW8EnUs5jYrvf9ZKOaV5ZWCUfuHvMpkbcAkLSuQNT99PMwAmqV0NVy7aaHSEqJPh3F9eBU8Emnr7k2XA",
+        "alt": "كرسي استرخاء خشب البلوط وقماش بوكليه"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrBSH3Iyyi8QvOxbGbLi7ekHJ3H36uyRTUunwGzrwVmMbJwZjiLwVXBSK64MZ-S_Th9aF2Mo2VTtPO82nqUG_K9lbCtitSTRZ1Rsu-oDjvf0k85Gw7I4BYMF2iodtOC3fgJ8hnIvk55Kq1jYJqfCZfJExL7ViD1KIegqMrmVa4qKef9WsdnNQBlOgEesJ9rxjlI5WmYXhaH6TATz2MgpGr_uXDdKKznQl_5BmeHLktcz7dogBrYmcRtPJCQA",
+        "alt": "غلاف متجر عالم التقنية"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrD_ptz5mC5c7Azj7P4HmNAnBusk4m-iUXciLCgxFkXn2fyAABnCj43HSn6ImtTEXK2dzyhOK5PagMW_1gHYScPYH9hBXQXwj0YPfN_BpQxN1qneeEz1BCI-eI7Sqth5as3jF1R01uaHSWbZ4WvubTfph1ggTMjAieWinkg9DGQ0tkbAi5Wh_6hkBJi58RE6pSYP3rlZlHHHfkFtSEn_WkCnd8k-QwaYly7T3sAFD23SdvfYUWrIGWJ8jIfvRz2C",
+        "alt": "غلاف متجر لمسة للعطور"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrBeTJRD37_XrcDmdGfNyy_L1iL76-TzhQt8DPkHkQU4vLo83mB0e3OsumvJAIW8r97s3cR0-h5bqXF7HJ_rK0sLxA6FBXKMQb1rapnjNATVGZuwiZShiJtTAsFP3W6i8v9ihfzk5VIiH0H7FhacV0hKLAY3xDz82vh2JcOqqkkocalVYvZ_L0mkmGN9QoqXwm8X6ztP8PBQ30D-xZ2RmxA8jEzAqdTHxgSItKr3noKjcqGKLRkSuH9s-daa",
+        "alt": "غلاف متجر بيتي للأثاث"
+      }
+    ],
+    "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_11\\code.html": [
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrA496gMgJxloe7UHKkZUhE4FQrgXfLKhy7nl6UBL2QP1oaPafeKwS0l5eehPzBCHMtC2Xu58Dpo5y2X7WYP99JORjiAIQ67o1YopoSBsPOHVTtp5apFdpyjcNDGf4YjHwz2PTAqMdDVbRWHg4po0otRmSgR_52mja_g6h7-kph3g0QTJ8tRBs_EUHx1A5Vn7D_MfYx2adhsPolM5GG1gX1W7u7o5oCCmWaPAP6oMmPayGk752ljbw",
+        "alt": "عطر عود ملكي"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrBF3z6-4mHFCvSmoG_gXH3qKfMoa7QNMJW7h1fbLbWF0371XodmrqwfvZHSwcSGRh73skQAlgne-yMEJ4tMahpu_InfWyHsxrBk5NDxwZkcN387tANz6iSs46URr-JADxQWq-YBAaUQHYKsxJsas5cGDz9MktU57U2DsuATic7YZnEPCAT9CI23HME9viVmayYmotg8-U1QwJDP7H--pAGElIOCGtINRBZOllOVMKnTYDxX1pcH8uRZ",
+        "alt": "ماكينة إسبريسو"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrBSj9mtZQgs7fn4EOoBjx3gEE0eB7zecpoSvx9-pXntwflxhI93_M7ensfOec5STXFC5fnK3yUzf2DSrYYkrgdu3PODzPaywAPU7dy0z0eDf3jp2SCWBQ-ywFWPdCGkmjBInnbZJUFs2ML1dA17mdgboqaIX3Eh711VCwXts9U0wCLC9GG11Lk-NUf-JyVlX-3acZSMusBQDuiv1oQNRKuiPxcdCWxnWQLloOjejHrooVKvvf98k_PRg18",
+        "alt": "ساعة ذكية تيتانيوم"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrANZBvBdJUkkQfIUzb8_xA3IrGuj5rTylW1YZ-sPp3OtMdnhhYlLvAwyhQ4HnrBu4uAYRx3-rtu1lctIlQlpMRJKLYRpZvvjzO5haqsWlzlcbJBQdLh1eB6NxHf8UsEWZyjRUY81vmQxDGT9Ani4bG2T1t2r-uvdjvo7_Yizkpl1jtygOoSNQWDsHgLHikCjOpgZh_n1YMTaGf5TupqefjxrlFfVaB0za3QSL3fyFQCfOqRIHqAyqF7pk8",
+        "alt": "صندوق ضيافة تمور"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrAs_IfdqFxuEHVQAmF8Fe9Mobp78klxVuH0MR9PRZJMc0pryFqKTUHGinXy3Bj4DTLKkCPQCvVJRcl2pLcv_SdXjvZfXnycdIvtsV1MMUsKwlRCC8BKUiTLhIymUt4V7TA9GLw-LaQi1Urlm4B_RBq3YLAXnyicvrcUW8EnUs5jYrvf9ZKOaV5ZWCUfuHvMpkbcAkLSuQNT99PMwAmqV0NVy7aaHSEqJPh3F9eBU8Emnr7k2XA",
+        "alt": "كرسي استرخاء"
+      }
+    ],
+    "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_12\\code.html": [
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrBqutIDYy67J9UeC1mjv-fMnNxfotY4ydhwjbEom8YhWSyGIeOrwvLi5HpBguLr9KWgjpP37nyVXkegIxvW0KhTcVduZe-tIQIsoTDvgXEq_IOjU69hXNXQNluDPHjdP_iSTB4WQIy9TyCtLBxkmBPS3r95FDLacGrI3X8M6VUfALVNhJujvwI-kJvgu6s_RW7NRlJyfYVusbuUUIsBJ5ifZ2UT7e6K50X6kAQy968idTX_iOHqdvJN34Y",
+        "alt": "منظور أمامي"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrCO08qjYVL0PPvU-jRnt3EoRvKMc9fbVM2yqED-5PnYqrcaHW7SoBehNWtweNjQ_TThJFRf_LoRyed9kRoy7a6kALDcpQOCqJbAz2k1GwZha72XRzYWAhAaMbc8sWLYHRH1DzTg29Ukvjid4ThcS2259wR6r9goK5OhBB2hb-1422JxGWZqGDLmlfIEg6sUR2MaTRr26jL7ypX2i45xAsgu0rGvCKBRGdqGALxNL5u6OUJ6uzyPAuCBiGTlnTwT",
+        "alt": "منظور جانبي"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrDt8wrFbwY017sIgxsV2jmMobO3tbnXNX3zIDCOS_K4hZxPA0cYipRcH5ch12QW7ByJI5KrwX7N-GAQ1hXukDuwN90WQSmzFQR7TRt8HwOf6G0finCytiKQSqp2b_NqPhX2oQX5gCBsn8l1DSihfwM-GG7oIX_8FaEZ_akxGF3GeoRxmvFn_ANcgQoBXl1-THer7Zh-FIU9z-Cr6vS2Y06HFgLH-IwKH4r8cVo8kKHJtC-VRizqOS_iBQyHEF73KA",
+        "alt": "حقيبة السفر"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrBbUq7aTHhEeNGjuBq0RTOOPYWzfkReNIK9iD1MdlQfsRiNLZg5aQh5NJjnSguAJaOYbafd5KCSmtT3_u2DraF7qAp82qy5h4KJ62IbfaPLSz_aB2WTgv_1_QYFS9upSXXDh44DXwadQEgTzPyr7Ciib8HrTRk3RHqEDRrTURS1qKhT2YoPyPj7mSdQR8DTdemqAjm6Frq9Kr16XlrT6l4XeeMcB_wLjI5j4umr76RVvHl85aApOX93lMYrcgWQzT7x",
+        "alt": "وسادة الأذن"
+      }
+    ],
+    "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_13\\code.html": [
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrA496gMgJxloe7UHKkZUhE4FQrgXfLKhy7nl6UBL2QP1oaPafeKwS0l5eehPzBCHMtC2Xu58Dpo5y2X7WYP99JORjiAIQ67o1YopoSBsPOHVTtp5apFdpyjcNDGf4YjHwz2PTAqMdDVbRWHg4po0otRmSgR_52mja_g6h7-kph3g0QTJ8tRBs_EUHx1A5Vn7D_MfYx2adhsPolM5GG1gX1W7u7o5oCCmWaPAP6oMmPayGk752ljbw",
+        "alt": "عطر عود ملكي"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrBF3z6-4mHFCvSmoG_gXH3qKfMoa7QNMJW7h1fbLbWF0371XodmrqwfvZHSwcSGRh73skQAlgne-yMEJ4tMahpu_InfWyHsxrBk5NDxwZkcN387tANz6iSs46URr-JADxQWq-YBAaUQHYKsxJsas5cGDz9MktU57U2DsuATic7YZnEPCAT9CI23HME9viVmayYmotg8-U1QwJDP7H--pAGElIOCGtINRBZOllOVMKnTYDxX1pcH8uRZ",
+        "alt": "ماكينة إسبريسو"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrAs_IfdqFxuEHVQAmF8Fe9Mobp78klxVuH0MR9PRZJMc0pryFqKTUHGinXy3Bj4DTLKkCPQCvVJRcl2pLcv_SdXjvZfXnycdIvtsV1MMUsKwlRCC8BKUiTLhIymUt4V7TA9GLw-LaQi1Urlm4B_RBq3YLAXnyicvrcUW8EnUs5jYrvf9ZKOaV5ZWCUfuHvMpkbcAkLSuQNT99PMwAmqV0NVy7aaHSEqJPh3F9eBU8Emnr7k2XA",
+        "alt": "كرسي استرخاء"
+      }
+    ],
+    "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_14\\code.html": [
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrAo2rBg_nFp4e_OlK9efkfFzJa8JSzEJnod0iYKNAfsdR0ks25YFgu3Lj4kXkyCz2w8Rmer88dGSG1qnhQGcOt7YNevARmZNwi3hOvVSYLi0rQPEPt5hQXtoctfyNCQHxmS_W0XhVUV3bPNqHW3gA9q8fAZk6P19GSrgBafuvqV-3TcbLXBH2NnYGWKgT8i-oP5tO8Lu3pre2qEHCW9hj3RAN3L0Q15YF7n4pDo1R1Wj-k6RZ2Mo3ssU_Xg",
+        "alt": "منتجات مختارة من متاجر Surge"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrA496gMgJxloe7UHKkZUhE4FQrgXfLKhy7nl6UBL2QP1oaPafeKwS0l5eehPzBCHMtC2Xu58Dpo5y2X7WYP99JORjiAIQ67o1YopoSBsPOHVTtp5apFdpyjcNDGf4YjHwz2PTAqMdDVbRWHg4po0otRmSgR_52mja_g6h7-kph3g0QTJ8tRBs_EUHx1A5Vn7D_MfYx2adhsPolM5GG1gX1W7u7o5oCCmWaPAP6oMmPayGk752ljbw",
+        "alt": "عطر عود ملكي"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrBSj9mtZQgs7fn4EOoBjx3gEE0eB7zecpoSvx9-pXntwflxhI93_M7ensfOec5STXFC5fnK3yUzf2DSrYYkrgdu3PODzPaywAPU7dy0z0eDf3jp2SCWBQ-ywFWPdCGkmjBInnbZJUFs2ML1dA17mdgboqaIX3Eh711VCwXts9U0wCLC9GG11Lk-NUf-JyVlX-3acZSMusBQDuiv1oQNRKuiPxcdCWxnWQLloOjejHrooVKvvf98k_PRg18",
+        "alt": "ساعة ذكية تيتانيوم"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrANZBvBdJUkkQfIUzb8_xA3IrGuj5rTylW1YZ-sPp3OtMdnhhYlLvAwyhQ4HnrBu4uAYRx3-rtu1lctIlQlpMRJKLYRpZvvjzO5haqsWlzlcbJBQdLh1eB6NxHf8UsEWZyjRUY81vmQxDGT9Ani4bG2T1t2r-uvdjvo7_Yizkpl1jtygOoSNQWDsHgLHikCjOpgZh_n1YMTaGf5TupqefjxrlFfVaB0za3QSL3fyFQCfOqRIHqAyqF7pk8",
+        "alt": "صندوق ضيافة تمور"
+      }
+    ],
+    "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_2\\code.html": [],
+    "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_3\\code.html": [
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrBSH3Iyyi8QvOxbGbLi7ekHJ3H36uyRTUunwGzrwVmMbJwZjiLwVXBSK64MZ-S_Th9aF2Mo2VTtPO82nqUG_K9lbCtitSTRZ1Rsu-oDjvf0k85Gw7I4BYMF2iodtOC3fgJ8hnIvk55Kq1jYJqfCZfJExL7ViD1KIegqMrmVa4qKef9WsdnNQBlOgEesJ9rxjlI5WmYXhaH6TATz2MgpGr_uXDdKKznQl_5BmeHLktcz7dogBrYmcRtPJCQA",
+        "alt": "عالم التقنية"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrD_ptz5mC5c7Azj7P4HmNAnBusk4m-iUXciLCgxFkXn2fyAABnCj43HSn6ImtTEXK2dzyhOK5PagMW_1gHYScPYH9hBXQXwj0YPfN_BpQxN1qneeEz1BCI-eI7Sqth5as3jF1R01uaHSWbZ4WvubTfph1ggTMjAieWinkg9DGQ0tkbAi5Wh_6hkBJi58RE6pSYP3rlZlHHHfkFtSEn_WkCnd8k-QwaYly7T3sAFD23SdvfYUWrIGWJ8jIfvRz2C",
+        "alt": "لمسة للعطور"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrBeTJRD37_XrcDmdGfNyy_L1iL76-TzhQt8DPkHkQU4vLo83mB0e3OsumvJAIW8r97s3cR0-h5bqXF7HJ_rK0sLxA6FBXKMQb1rapnjNATVGZuwiZShiJtTAsFP3W6i8v9ihfzk5VIiH0H7FhacV0hKLAY3xDz82vh2JcOqqkkocalVYvZ_L0mkmGN9QoqXwm8X6ztP8PBQ30D-xZ2RmxA8jEzAqdTHxgSItKr3noKjcqGKLRkSuH9s-daa",
+        "alt": "بيتي للأثاث"
+      }
+    ],
+    "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_4\\code.html": [
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrBSH3Iyyi8QvOxbGbLi7ekHJ3H36uyRTUunwGzrwVmMbJwZjiLwVXBSK64MZ-S_Th9aF2Mo2VTtPO82nqUG_K9lbCtitSTRZ1Rsu-oDjvf0k85Gw7I4BYMF2iodtOC3fgJ8hnIvk55Kq1jYJqfCZfJExL7ViD1KIegqMrmVa4qKef9WsdnNQBlOgEesJ9rxjlI5WmYXhaH6TATz2MgpGr_uXDdKKznQl_5BmeHLktcz7dogBrYmcRtPJCQA",
+        "alt": "غلاف متجر عالم التقنية"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrBSj9mtZQgs7fn4EOoBjx3gEE0eB7zecpoSvx9-pXntwflxhI93_M7ensfOec5STXFC5fnK3yUzf2DSrYYkrgdu3PODzPaywAPU7dy0z0eDf3jp2SCWBQ-ywFWPdCGkmjBInnbZJUFs2ML1dA17mdgboqaIX3Eh711VCwXts9U0wCLC9GG11Lk-NUf-JyVlX-3acZSMusBQDuiv1oQNRKuiPxcdCWxnWQLloOjejHrooVKvvf98k_PRg18",
+        "alt": "ساعة ذكية تيتانيوم"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrDt8wrFbwY017sIgxsV2jmMobO3tbnXNX3zIDCOS_K4hZxPA0cYipRcH5ch12QW7ByJI5KrwX7N-GAQ1hXukDuwN90WQSmzFQR7TRt8HwOf6G0finCytiKQSqp2b_NqPhX2oQX5gCBsn8l1DSihfwM-GG7oIX_8FaEZ_akxGF3GeoRxmvFn_ANcgQoBXl1-THer7Zh-FIU9z-Cr6vS2Y06HFgLH-IwKH4r8cVo8kKHJtC-VRizqOS_iBQyHEF73KA",
+        "alt": "حقيبة حماية للسماعات"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrCO08qjYVL0PPvU-jRnt3EoRvKMc9fbVM2yqED-5PnYqrcaHW7SoBehNWtweNjQ_TThJFRf_LoRyed9kRoy7a6kALDcpQOCqJbAz2k1GwZha72XRzYWAhAaMbc8sWLYHRH1DzTg29Ukvjid4ThcS2259wR6r9goK5OhBB2hb-1422JxGWZqGDLmlfIEg6sUR2MaTRr26jL7ypX2i45xAsgu0rGvCKBRGdqGALxNL5u6OUJ6uzyPAuCBiGTlnTwT",
+        "alt": "سماعة استوديو"
+      }
+    ],
+    "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_5\\code.html": [
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrBSH3Iyyi8QvOxbGbLi7ekHJ3H36uyRTUunwGzrwVmMbJwZjiLwVXBSK64MZ-S_Th9aF2Mo2VTtPO82nqUG_K9lbCtitSTRZ1Rsu-oDjvf0k85Gw7I4BYMF2iodtOC3fgJ8hnIvk55Kq1jYJqfCZfJExL7ViD1KIegqMrmVa4qKef9WsdnNQBlOgEesJ9rxjlI5WmYXhaH6TATz2MgpGr_uXDdKKznQl_5BmeHLktcz7dogBrYmcRtPJCQA",
+        "alt": "عالم التقنية"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrBSj9mtZQgs7fn4EOoBjx3gEE0eB7zecpoSvx9-pXntwflxhI93_M7ensfOec5STXFC5fnK3yUzf2DSrYYkrgdu3PODzPaywAPU7dy0z0eDf3jp2SCWBQ-ywFWPdCGkmjBInnbZJUFs2ML1dA17mdgboqaIX3Eh711VCwXts9U0wCLC9GG11Lk-NUf-JyVlX-3acZSMusBQDuiv1oQNRKuiPxcdCWxnWQLloOjejHrooVKvvf98k_PRg18",
+        "alt": "ساعة ذكية"
+      }
+    ],
+    "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_6\\code.html": [
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrA496gMgJxloe7UHKkZUhE4FQrgXfLKhy7nl6UBL2QP1oaPafeKwS0l5eehPzBCHMtC2Xu58Dpo5y2X7WYP99JORjiAIQ67o1YopoSBsPOHVTtp5apFdpyjcNDGf4YjHwz2PTAqMdDVbRWHg4po0otRmSgR_52mja_g6h7-kph3g0QTJ8tRBs_EUHx1A5Vn7D_MfYx2adhsPolM5GG1gX1W7u7o5oCCmWaPAP6oMmPayGk752ljbw",
+        "alt": "عطر عود ملكي"
+      }
+    ],
+    "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_7\\code.html": [
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrBqutIDYy67J9UeC1mjv-fMnNxfotY4ydhwjbEom8YhWSyGIeOrwvLi5HpBguLr9KWgjpP37nyVXkegIxvW0KhTcVduZe-tIQIsoTDvgXEq_IOjU69hXNXQNluDPHjdP_iSTB4WQIy9TyCtLBxkmBPS3r95FDLacGrI3X8M6VUfALVNhJujvwI-kJvgu6s_RW7NRlJyfYVusbuUUIsBJ5ifZ2UT7e6K50X6kAQy968idTX_iOHqdvJN34Y",
+        "alt": "المنظور الأمامي للسماعة"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrCO08qjYVL0PPvU-jRnt3EoRvKMc9fbVM2yqED-5PnYqrcaHW7SoBehNWtweNjQ_TThJFRf_LoRyed9kRoy7a6kALDcpQOCqJbAz2k1GwZha72XRzYWAhAaMbc8sWLYHRH1DzTg29Ukvjid4ThcS2259wR6r9goK5OhBB2hb-1422JxGWZqGDLmlfIEg6sUR2MaTRr26jL7ypX2i45xAsgu0rGvCKBRGdqGALxNL5u6OUJ6uzyPAuCBiGTlnTwT",
+        "alt": "المنظور الجانبي للسماعة"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrDt8wrFbwY017sIgxsV2jmMobO3tbnXNX3zIDCOS_K4hZxPA0cYipRcH5ch12QW7ByJI5KrwX7N-GAQ1hXukDuwN90WQSmzFQR7TRt8HwOf6G0finCytiKQSqp2b_NqPhX2oQX5gCBsn8l1DSihfwM-GG7oIX_8FaEZ_akxGF3GeoRxmvFn_ANcgQoBXl1-THer7Zh-FIU9z-Cr6vS2Y06HFgLH-IwKH4r8cVo8kKHJtC-VRizqOS_iBQyHEF73KA",
+        "alt": "حقيبة السفر والكابل المرفق"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrBbUq7aTHhEeNGjuBq0RTOOPYWzfkReNIK9iD1MdlQfsRiNLZg5aQh5NJjnSguAJaOYbafd5KCSmtT3_u2DraF7qAp82qy5h4KJ62IbfaPLSz_aB2WTgv_1_QYFS9upSXXDh44DXwadQEgTzPyr7Ciib8HrTRk3RHqEDRrTURS1qKhT2YoPyPj7mSdQR8DTdemqAjm6Frq9Kr16XlrT6l4XeeMcB_wLjI5j4umr76RVvHl85aApOX93lMYrcgWQzT7x",
+        "alt": "تفاصيل وسادة الأذن المريحة"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrBSj9mtZQgs7fn4EOoBjx3gEE0eB7zecpoSvx9-pXntwflxhI93_M7ensfOec5STXFC5fnK3yUzf2DSrYYkrgdu3PODzPaywAPU7dy0z0eDf3jp2SCWBQ-ywFWPdCGkmjBInnbZJUFs2ML1dA17mdgboqaIX3Eh711VCwXts9U0wCLC9GG11Lk-NUf-JyVlX-3acZSMusBQDuiv1oQNRKuiPxcdCWxnWQLloOjejHrooVKvvf98k_PRg18",
+        "alt": "ساعة ذكية تيتانيوم"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrBF3z6-4mHFCvSmoG_gXH3qKfMoa7QNMJW7h1fbLbWF0371XodmrqwfvZHSwcSGRh73skQAlgne-yMEJ4tMahpu_InfWyHsxrBk5NDxwZkcN387tANz6iSs46URr-JADxQWq-YBAaUQHYKsxJsas5cGDz9MktU57U2DsuATic7YZnEPCAT9CI23HME9viVmayYmotg8-U1QwJDP7H--pAGElIOCGtINRBZOllOVMKnTYDxX1pcH8uRZ",
+        "alt": "ماكينة إسبريسو"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrA496gMgJxloe7UHKkZUhE4FQrgXfLKhy7nl6UBL2QP1oaPafeKwS0l5eehPzBCHMtC2Xu58Dpo5y2X7WYP99JORjiAIQ67o1YopoSBsPOHVTtp5apFdpyjcNDGf4YjHwz2PTAqMdDVbRWHg4po0otRmSgR_52mja_g6h7-kph3g0QTJ8tRBs_EUHx1A5Vn7D_MfYx2adhsPolM5GG1gX1W7u7o5oCCmWaPAP6oMmPayGk752ljbw",
+        "alt": "عطر عود ملكي"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrBtpT-6VgBv2_sfwfur53_2SdRn34WA17PXGU77ex-G8ECJzkpYropkXZ3j0ZC7CVE9X9YVcoUcqEZnqvExulk7c2o7-7sT5fY_L6-I1pkbhGj3X4aPzi7e8wbGzPc10e3mpFb6KwFkqfnEWp9Cwa93h8hdy1PAFAEuw_XttF7XjTPH4hM-iAz-wWptn8Gi7V8PsrzzBGqFq-9_r4NCBS8vuZumTYKiLEG2wX3VVmE9GlSF4IxIjLY",
+        "alt": "حذاء جري رياضي"
+      }
+    ],
+    "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_8\\code.html": [
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrBSH3Iyyi8QvOxbGbLi7ekHJ3H36uyRTUunwGzrwVmMbJwZjiLwVXBSK64MZ-S_Th9aF2Mo2VTtPO82nqUG_K9lbCtitSTRZ1Rsu-oDjvf0k85Gw7I4BYMF2iodtOC3fgJ8hnIvk55Kq1jYJqfCZfJExL7ViD1KIegqMrmVa4qKef9WsdnNQBlOgEesJ9rxjlI5WmYXhaH6TATz2MgpGr_uXDdKKznQl_5BmeHLktcz7dogBrYmcRtPJCQA",
+        "alt": "عالم التقنية"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrD_ptz5mC5c7Azj7P4HmNAnBusk4m-iUXciLCgxFkXn2fyAABnCj43HSn6ImtTEXK2dzyhOK5PagMW_1gHYScPYH9hBXQXwj0YPfN_BpQxN1qneeEz1BCI-eI7Sqth5as3jF1R01uaHSWbZ4WvubTfph1ggTMjAieWinkg9DGQ0tkbAi5Wh_6hkBJi58RE6pSYP3rlZlHHHfkFtSEn_WkCnd8k-QwaYly7T3sAFD23SdvfYUWrIGWJ8jIfvRz2C",
+        "alt": "لمسة للعطور"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrBeTJRD37_XrcDmdGfNyy_L1iL76-TzhQt8DPkHkQU4vLo83mB0e3OsumvJAIW8r97s3cR0-h5bqXF7HJ_rK0sLxA6FBXKMQb1rapnjNATVGZuwiZShiJtTAsFP3W6i8v9ihfzk5VIiH0H7FhacV0hKLAY3xDz82vh2JcOqqkkocalVYvZ_L0mkmGN9QoqXwm8X6ztP8PBQ30D-xZ2RmxA8jEzAqdTHxgSItKr3noKjcqGKLRkSuH9s-daa",
+        "alt": "بيتي للأثاث"
+      }
+    ],
+    "reference-dark\\stitch_surge_arabic_marketplace_storefront\\surge_9\\code.html": [
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrA496gMgJxloe7UHKkZUhE4FQrgXfLKhy7nl6UBL2QP1oaPafeKwS0l5eehPzBCHMtC2Xu58Dpo5y2X7WYP99JORjiAIQ67o1YopoSBsPOHVTtp5apFdpyjcNDGf4YjHwz2PTAqMdDVbRWHg4po0otRmSgR_52mja_g6h7-kph3g0QTJ8tRBs_EUHx1A5Vn7D_MfYx2adhsPolM5GG1gX1W7u7o5oCCmWaPAP6oMmPayGk752ljbw",
+        "alt": "عطر عود ملكي"
+      }
+    ],
+    "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_1\\code.html": [
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrAo2rBg_nFp4e_OlK9efkfFzJa8JSzEJnod0iYKNAfsdR0ks25YFgu3Lj4kXkyCz2w8Rmer88dGSG1qnhQGcOt7YNevARmZNwi3hOvVSYLi0rQPEPt5hQXtoctfyNCQHxmS_W0XhVUV3bPNqHW3gA9q8fAZk6P19GSrgBafuvqV-3TcbLXBH2NnYGWKgT8i-oP5tO8Lu3pre2qEHCW9hj3RAN3L0Q15YF7n4pDo1R1Wj-k6RZ2Mo3ssU_Xg",
+        "alt": "تشكيلة منتجات عصرية مختارة من متاجر Surge"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrBqutIDYy67J9UeC1mjv-fMnNxfotY4ydhwjbEom8YhWSyGIeOrwvLi5HpBguLr9KWgjpP37nyVXkegIxvW0KhTcVduZe-tIQIsoTDvgXEq_IOjU69hXNXQNluDPHjdP_iSTB4WQIy9TyCtLBxkmBPS3r95FDLacGrI3X8M6VUfALVNhJujvwI-kJvgu6s_RW7NRlJyfYVusbuUUIsBJ5ifZ2UT7e6K50X6kAQy968idTX_iOHqdvJN34Y",
+        "alt": "سماعة لاسلكية عازلة للضوضاء برو"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrA496gMgJxloe7UHKkZUhE4FQrgXfLKhy7nl6UBL2QP1oaPafeKwS0l5eehPzBCHMtC2Xu58Dpo5y2X7WYP99JORjiAIQ67o1YopoSBsPOHVTtp5apFdpyjcNDGf4YjHwz2PTAqMdDVbRWHg4po0otRmSgR_52mja_g6h7-kph3g0QTJ8tRBs_EUHx1A5Vn7D_MfYx2adhsPolM5GG1gX1W7u7o5oCCmWaPAP6oMmPayGk752ljbw",
+        "alt": "عطر عود ملكي فاخر 100 مل"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrBF3z6-4mHFCvSmoG_gXH3qKfMoa7QNMJW7h1fbLbWF0371XodmrqwfvZHSwcSGRh73skQAlgne-yMEJ4tMahpu_InfWyHsxrBk5NDxwZkcN387tANz6iSs46URr-JADxQWq-YBAaUQHYKsxJsas5cGDz9MktU57U2DsuATic7YZnEPCAT9CI23HME9viVmayYmotg8-U1QwJDP7H--pAGElIOCGtINRBZOllOVMKnTYDxX1pcH8uRZ",
+        "alt": "ماكينة تحضير الإسبريسو المنزلية"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrAgfJHCcWfH75F8i5aFgTyg2pXdLdYoYAk1rV6BT66CXI3CV2bqyMfqV_c0B99l2-ombIceEkDDTuMSHqIKgpIohPKQ-2xf4kxSwHGBXDhW9Oe86BRGbFOyjIEMCUM2xFHfZEO9HEaKx5gaWWxhTmTH2-U2ot1ELDPHCRx5TqShu9d80vHEeKMVccvMzdaIosneNcwUXkGTkWH_e3qr3iLkuOBBSymyu87fEtoe1CFOzFYu_I-o9GA",
+        "alt": "حذاء جري رياضي خفيف الوزن"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrBr5T_-13616VQc2TAgJliIr2J6hV6tmvpV6BVWass_IAe3AlX92dsc_1KpipBiC5986pb3CiAFylZTsYlLOkQqmqLnB9oBl78_Ibd-52WNZWsmnIoGzdc1mDJxjmaaUW6mggddhBCmyIPuQ4b8_yboigsTa2tarrYO7wFkN_hi1Rm8Ry5CCyFaM1r-7KywXEfA_JXnDQOOL6d3EoOulmn5Dyl3QJrUPy5Vy-1XjE9V6G10IUJ6LPAg6cto",
+        "alt": "أجهزة ذكية وإلكترونيات حديثة"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrDA-GYfH3NwhBVLRMF7i16305JFuzAUOcgAasGFMLeuoeelnGtb4WuK6qbH7F4WD9--qbm7Dl0_E06D1n9hUYpnjW3jWGJdlA5gON0TWA-PS50YSM_AyWlTfWENqzyOCtk3i9LRj-nulwfe3POOhJeDg5kyoNHGQkfbyxCloSC-mElfvPeS7PnbD4LEC5L5ULySuyzVHW2e-5596xHNdwGCdgQnhQFohnD8B-WW544AbrxFw_JA4nxq5B1jALYOSw",
+        "alt": "ديكور منزلي عصري وإضاءة دافئة"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrBSj9mtZQgs7fn4EOoBjx3gEE0eB7zecpoSvx9-pXntwflxhI93_M7ensfOec5STXFC5fnK3yUzf2DSrYYkrgdu3PODzPaywAPU7dy0z0eDf3jp2SCWBQ-ywFWPdCGkmjBInnbZJUFs2ML1dA17mdgboqaIX3Eh711VCwXts9U0wCLC9GG11Lk-NUf-JyVlX-3acZSMusBQDuiv1oQNRKuiPxcdCWxnWQLloOjejHrooVKvvf98k_PRg18",
+        "alt": "ساعة ذكية تيتانيوم مقاومة للماء"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrBg2qn8k7WoFIvnsEOY4wrefnsrkeazWXN7WxIkmR0c48GHfNF_lWfGXhtg7-NOm5smW0oB-Hs_SAJlvRpHkrY2r12CFDTwH0kONe_O0NHb-AgWpY05_YpbWpoJl4viP_3ulwyN1VvM3jn--g8_ukoGeq7A8o-mleWKq3fcHK9cpbIeNZF1ovQ-vQfnWqRj9uBmQjXbN9O25frB92hhvjN8We3d3lhyc11dbduX8VSr8LB7_MxWwF4",
+        "alt": "سيروم فيتامين سي وكريم مرطب للبشرة"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrAs_IfdqFxuEHVQAmF8Fe9Mobp78klxVuH0MR9PRZJMc0pryFqKTUHGinXy3Bj4DTLKkCPQCvVJRcl2pLcv_SdXjvZfXnycdIvtsV1MMUsKwlRCC8BKUiTLhIymUt4V7TA9GLw-LaQi1Urlm4B_RBq3YLAXnyicvrcUW8EnUs5jYrvf9ZKOaV5ZWCUfuHvMpkbcAkLSuQNT99PMwAmqV0NVy7aaHSEqJPh3F9eBU8Emnr7k2XA",
+        "alt": "كرسي استرخاء خشب البلوط وقماش بوكليه"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrBSH3Iyyi8QvOxbGbLi7ekHJ3H36uyRTUunwGzrwVmMbJwZjiLwVXBSK64MZ-S_Th9aF2Mo2VTtPO82nqUG_K9lbCtitSTRZ1Rsu-oDjvf0k85Gw7I4BYMF2iodtOC3fgJ8hnIvk55Kq1jYJqfCZfJExL7ViD1KIegqMrmVa4qKef9WsdnNQBlOgEesJ9rxjlI5WmYXhaH6TATz2MgpGr_uXDdKKznQl_5BmeHLktcz7dogBrYmcRtPJCQA",
+        "alt": "غلاف متجر عالم التقنية"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrD_ptz5mC5c7Azj7P4HmNAnBusk4m-iUXciLCgxFkXn2fyAABnCj43HSn6ImtTEXK2dzyhOK5PagMW_1gHYScPYH9hBXQXwj0YPfN_BpQxN1qneeEz1BCI-eI7Sqth5as3jF1R01uaHSWbZ4WvubTfph1ggTMjAieWinkg9DGQ0tkbAi5Wh_6hkBJi58RE6pSYP3rlZlHHHfkFtSEn_WkCnd8k-QwaYly7T3sAFD23SdvfYUWrIGWJ8jIfvRz2C",
+        "alt": "غلاف متجر لمسة للعطور"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrBeTJRD37_XrcDmdGfNyy_L1iL76-TzhQt8DPkHkQU4vLo83mB0e3OsumvJAIW8r97s3cR0-h5bqXF7HJ_rK0sLxA6FBXKMQb1rapnjNATVGZuwiZShiJtTAsFP3W6i8v9ihfzk5VIiH0H7FhacV0hKLAY3xDz82vh2JcOqqkkocalVYvZ_L0mkmGN9QoqXwm8X6ztP8PBQ30D-xZ2RmxA8jEzAqdTHxgSItKr3noKjcqGKLRkSuH9s-daa",
+        "alt": "غلاف متجر بيتي للأثاث"
+      }
+    ],
+    "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_10\\code.html": [
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrBSH3Iyyi8QvOxbGbLi7ekHJ3H36uyRTUunwGzrwVmMbJwZjiLwVXBSK64MZ-S_Th9aF2Mo2VTtPO82nqUG_K9lbCtitSTRZ1Rsu-oDjvf0k85Gw7I4BYMF2iodtOC3fgJ8hnIvk55Kq1jYJqfCZfJExL7ViD1KIegqMrmVa4qKef9WsdnNQBlOgEesJ9rxjlI5WmYXhaH6TATz2MgpGr_uXDdKKznQl_5BmeHLktcz7dogBrYmcRtPJCQA",
+        "alt": "عالم التقنية"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrBSj9mtZQgs7fn4EOoBjx3gEE0eB7zecpoSvx9-pXntwflxhI93_M7ensfOec5STXFC5fnK3yUzf2DSrYYkrgdu3PODzPaywAPU7dy0z0eDf3jp2SCWBQ-ywFWPdCGkmjBInnbZJUFs2ML1dA17mdgboqaIX3Eh711VCwXts9U0wCLC9GG11Lk-NUf-JyVlX-3acZSMusBQDuiv1oQNRKuiPxcdCWxnWQLloOjejHrooVKvvf98k_PRg18",
+        "alt": "ساعة ذكية"
+      }
+    ],
+    "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_11\\code.html": [
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrBqutIDYy67J9UeC1mjv-fMnNxfotY4ydhwjbEom8YhWSyGIeOrwvLi5HpBguLr9KWgjpP37nyVXkegIxvW0KhTcVduZe-tIQIsoTDvgXEq_IOjU69hXNXQNluDPHjdP_iSTB4WQIy9TyCtLBxkmBPS3r95FDLacGrI3X8M6VUfALVNhJujvwI-kJvgu6s_RW7NRlJyfYVusbuUUIsBJ5ifZ2UT7e6K50X6kAQy968idTX_iOHqdvJN34Y",
+        "alt": "سماعة لاسلكية برو"
+      }
+    ],
+    "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_12\\code.html": [
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrBqutIDYy67J9UeC1mjv-fMnNxfotY4ydhwjbEom8YhWSyGIeOrwvLi5HpBguLr9KWgjpP37nyVXkegIxvW0KhTcVduZe-tIQIsoTDvgXEq_IOjU69hXNXQNluDPHjdP_iSTB4WQIy9TyCtLBxkmBPS3r95FDLacGrI3X8M6VUfALVNhJujvwI-kJvgu6s_RW7NRlJyfYVusbuUUIsBJ5ifZ2UT7e6K50X6kAQy968idTX_iOHqdvJN34Y",
+        "alt": "سماعة برو"
+      }
+    ],
+    "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_13\\code.html": [],
+    "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_14\\code.html": [],
+    "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_2\\code.html": [
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrAo2rBg_nFp4e_OlK9efkfFzJa8JSzEJnod0iYKNAfsdR0ks25YFgu3Lj4kXkyCz2w8Rmer88dGSG1qnhQGcOt7YNevARmZNwi3hOvVSYLi0rQPEPt5hQXtoctfyNCQHxmS_W0XhVUV3bPNqHW3gA9q8fAZk6P19GSrgBafuvqV-3TcbLXBH2NnYGWKgT8i-oP5tO8Lu3pre2qEHCW9hj3RAN3L0Q15YF7n4pDo1R1Wj-k6RZ2Mo3ssU_Xg",
+        "alt": "منتجات مختارة من متاجر Surge"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrBqutIDYy67J9UeC1mjv-fMnNxfotY4ydhwjbEom8YhWSyGIeOrwvLi5HpBguLr9KWgjpP37nyVXkegIxvW0KhTcVduZe-tIQIsoTDvgXEq_IOjU69hXNXQNluDPHjdP_iSTB4WQIy9TyCtLBxkmBPS3r95FDLacGrI3X8M6VUfALVNhJujvwI-kJvgu6s_RW7NRlJyfYVusbuUUIsBJ5ifZ2UT7e6K50X6kAQy968idTX_iOHqdvJN34Y",
+        "alt": "سماعة لاسلكية برو"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrA496gMgJxloe7UHKkZUhE4FQrgXfLKhy7nl6UBL2QP1oaPafeKwS0l5eehPzBCHMtC2Xu58Dpo5y2X7WYP99JORjiAIQ67o1YopoSBsPOHVTtp5apFdpyjcNDGf4YjHwz2PTAqMdDVbRWHg4po0otRmSgR_52mja_g6h7-kph3g0QTJ8tRBs_EUHx1A5Vn7D_MfYx2adhsPolM5GG1gX1W7u7o5oCCmWaPAP6oMmPayGk752ljbw",
+        "alt": "عطر عود ملكي"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrBSj9mtZQgs7fn4EOoBjx3gEE0eB7zecpoSvx9-pXntwflxhI93_M7ensfOec5STXFC5fnK3yUzf2DSrYYkrgdu3PODzPaywAPU7dy0z0eDf3jp2SCWBQ-ywFWPdCGkmjBInnbZJUFs2ML1dA17mdgboqaIX3Eh711VCwXts9U0wCLC9GG11Lk-NUf-JyVlX-3acZSMusBQDuiv1oQNRKuiPxcdCWxnWQLloOjejHrooVKvvf98k_PRg18",
+        "alt": "ساعة ذكية تيتانيوم"
+      }
+    ],
+    "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_3\\code.html": [
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrBqutIDYy67J9UeC1mjv-fMnNxfotY4ydhwjbEom8YhWSyGIeOrwvLi5HpBguLr9KWgjpP37nyVXkegIxvW0KhTcVduZe-tIQIsoTDvgXEq_IOjU69hXNXQNluDPHjdP_iSTB4WQIy9TyCtLBxkmBPS3r95FDLacGrI3X8M6VUfALVNhJujvwI-kJvgu6s_RW7NRlJyfYVusbuUUIsBJ5ifZ2UT7e6K50X6kAQy968idTX_iOHqdvJN34Y",
+        "alt": "سماعة لاسلكية عازلة للضوضاء برو"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrBqutIDYy67J9UeC1mjv-fMnNxfotY4ydhwjbEom8YhWSyGIeOrwvLi5HpBguLr9KWgjpP37nyVXkegIxvW0KhTcVduZe-tIQIsoTDvgXEq_IOjU69hXNXQNluDPHjdP_iSTB4WQIy9TyCtLBxkmBPS3r95FDLacGrI3X8M6VUfALVNhJujvwI-kJvgu6s_RW7NRlJyfYVusbuUUIsBJ5ifZ2UT7e6K50X6kAQy968idTX_iOHqdvJN34Y",
+        "alt": "المنظور الأمامي للسماعة"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrDt8wrFbwY017sIgxsV2jmMobO3tbnXNX3zIDCOS_K4hZxPA0cYipRcH5ch12QW7ByJI5KrwX7N-GAQ1hXukDuwN90WQSmzFQR7TRt8HwOf6G0finCytiKQSqp2b_NqPhX2oQX5gCBsn8l1DSihfwM-GG7oIX_8FaEZ_akxGF3GeoRxmvFn_ANcgQoBXl1-THer7Zh-FIU9z-Cr6vS2Y06HFgLH-IwKH4r8cVo8kKHJtC-VRizqOS_iBQyHEF73KA",
+        "alt": "حقيبة السفر والكابل المرفق"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrA7VBeu7-zudYLnVDHbABmYeZlhqfR0Mb4f-H8eK3rtJuQzvzGhlteXLkMQm9qpvEXOsPbNt_ss7pJRB1ROR0gOjaKF_QLlVOzNL2oKw63K23vVC7xUGVONUupi2x5cIm0PnFUjtnWg8HsCTB4M1NvNClQbEsjT40aHehvImV0bx10d452j6b2EXdJkmkwqsnfCYuBEBpUfeuRI4leBjQnFZ5rSLmWmMdTK8VEM-0LARkoUpPo6V9DPJyxqU_ZoYUd6",
+        "alt": "تفاصيل وسادة الأذن المريحة"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrBSj9mtZQgs7fn4EOoBjx3gEE0eB7zecpoSvx9-pXntwflxhI93_M7ensfOec5STXFC5fnK3yUzf2DSrYYkrgdu3PODzPaywAPU7dy0z0eDf3jp2SCWBQ-ywFWPdCGkmjBInnbZJUFs2ML1dA17mdgboqaIX3Eh711VCwXts9U0wCLC9GG11Lk-NUf-JyVlX-3acZSMusBQDuiv1oQNRKuiPxcdCWxnWQLloOjejHrooVKvvf98k_PRg18",
+        "alt": "ساعة ذكية تيتانيوم"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrBF3z6-4mHFCvSmoG_gXH3qKfMoa7QNMJW7h1fbLbWF0371XodmrqwfvZHSwcSGRh73skQAlgne-yMEJ4tMahpu_InfWyHsxrBk5NDxwZkcN387tANz6iSs46URr-JADxQWq-YBAaUQHYKsxJsas5cGDz9MktU57U2DsuATic7YZnEPCAT9CI23HME9viVmayYmotg8-U1QwJDP7H--pAGElIOCGtINRBZOllOVMKnTYDxX1pcH8uRZ",
+        "alt": "ماكينة إسبريسو"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrA496gMgJxloe7UHKkZUhE4FQrgXfLKhy7nl6UBL2QP1oaPafeKwS0l5eehPzBCHMtC2Xu58Dpo5y2X7WYP99JORjiAIQ67o1YopoSBsPOHVTtp5apFdpyjcNDGf4YjHwz2PTAqMdDVbRWHg4po0otRmSgR_52mja_g6h7-kph3g0QTJ8tRBs_EUHx1A5Vn7D_MfYx2adhsPolM5GG1gX1W7u7o5oCCmWaPAP6oMmPayGk752ljbw",
+        "alt": "عطر عود ملكي"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrAgfJHCcWfH75F8i5aFgTyg2pXdLdYoYAk1rV6BT66CXI3CV2bqyMfqV_c0B99l2-ombIceEkDDTuMSHqIKgpIohPKQ-2xf4kxSwHGBXDhW9Oe86BRGbFOyjIEMCUM2xFHfZEO9HEaKx5gaWWxhTmTH2-U2ot1ELDPHCRx5TqShu9d80vHEeKMVccvMzdaIosneNcwUXkGTkWH_e3qr3iLkuOBBSymyu87fEtoe1CFOzFYu_I-o9GA",
+        "alt": "حذاء جري رياضي"
+      }
+    ],
+    "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_4\\code.html": [
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrBqutIDYy67J9UeC1mjv-fMnNxfotY4ydhwjbEom8YhWSyGIeOrwvLi5HpBguLr9KWgjpP37nyVXkegIxvW0KhTcVduZe-tIQIsoTDvgXEq_IOjU69hXNXQNluDPHjdP_iSTB4WQIy9TyCtLBxkmBPS3r95FDLacGrI3X8M6VUfALVNhJujvwI-kJvgu6s_RW7NRlJyfYVusbuUUIsBJ5ifZ2UT7e6K50X6kAQy968idTX_iOHqdvJN34Y",
+        "alt": "سماعة لاسلكية عازلة للضوضاء برو"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrBqutIDYy67J9UeC1mjv-fMnNxfotY4ydhwjbEom8YhWSyGIeOrwvLi5HpBguLr9KWgjpP37nyVXkegIxvW0KhTcVduZe-tIQIsoTDvgXEq_IOjU69hXNXQNluDPHjdP_iSTB4WQIy9TyCtLBxkmBPS3r95FDLacGrI3X8M6VUfALVNhJujvwI-kJvgu6s_RW7NRlJyfYVusbuUUIsBJ5ifZ2UT7e6K50X6kAQy968idTX_iOHqdvJN34Y",
+        "alt": "منظور أمامي"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrDt8wrFbwY017sIgxsV2jmMobO3tbnXNX3zIDCOS_K4hZxPA0cYipRcH5ch12QW7ByJI5KrwX7N-GAQ1hXukDuwN90WQSmzFQR7TRt8HwOf6G0finCytiKQSqp2b_NqPhX2oQX5gCBsn8l1DSihfwM-GG7oIX_8FaEZ_akxGF3GeoRxmvFn_ANcgQoBXl1-THer7Zh-FIU9z-Cr6vS2Y06HFgLH-IwKH4r8cVo8kKHJtC-VRizqOS_iBQyHEF73KA",
+        "alt": "حقيبة السفر"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrA7VBeu7-zudYLnVDHbABmYeZlhqfR0Mb4f-H8eK3rtJuQzvzGhlteXLkMQm9qpvEXOsPbNt_ss7pJRB1ROR0gOjaKF_QLlVOzNL2oKw63K23vVC7xUGVONUupi2x5cIm0PnFUjtnWg8HsCTB4M1NvNClQbEsjT40aHehvImV0bx10d452j6b2EXdJkmkwqsnfCYuBEBpUfeuRI4leBjQnFZ5rSLmWmMdTK8VEM-0LARkoUpPo6V9DPJyxqU_ZoYUd6",
+        "alt": "وسادة الأذن"
+      }
+    ],
+    "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_5\\code.html": [
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrBqutIDYy67J9UeC1mjv-fMnNxfotY4ydhwjbEom8YhWSyGIeOrwvLi5HpBguLr9KWgjpP37nyVXkegIxvW0KhTcVduZe-tIQIsoTDvgXEq_IOjU69hXNXQNluDPHjdP_iSTB4WQIy9TyCtLBxkmBPS3r95FDLacGrI3X8M6VUfALVNhJujvwI-kJvgu6s_RW7NRlJyfYVusbuUUIsBJ5ifZ2UT7e6K50X6kAQy968idTX_iOHqdvJN34Y",
+        "alt": "سماعة لاسلكية برو"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrA496gMgJxloe7UHKkZUhE4FQrgXfLKhy7nl6UBL2QP1oaPafeKwS0l5eehPzBCHMtC2Xu58Dpo5y2X7WYP99JORjiAIQ67o1YopoSBsPOHVTtp5apFdpyjcNDGf4YjHwz2PTAqMdDVbRWHg4po0otRmSgR_52mja_g6h7-kph3g0QTJ8tRBs_EUHx1A5Vn7D_MfYx2adhsPolM5GG1gX1W7u7o5oCCmWaPAP6oMmPayGk752ljbw",
+        "alt": "عطر عود ملكي"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrBF3z6-4mHFCvSmoG_gXH3qKfMoa7QNMJW7h1fbLbWF0371XodmrqwfvZHSwcSGRh73skQAlgne-yMEJ4tMahpu_InfWyHsxrBk5NDxwZkcN387tANz6iSs46URr-JADxQWq-YBAaUQHYKsxJsas5cGDz9MktU57U2DsuATic7YZnEPCAT9CI23HME9viVmayYmotg8-U1QwJDP7H--pAGElIOCGtINRBZOllOVMKnTYDxX1pcH8uRZ",
+        "alt": "ماكينة إسبريسو"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrBSj9mtZQgs7fn4EOoBjx3gEE0eB7zecpoSvx9-pXntwflxhI93_M7ensfOec5STXFC5fnK3yUzf2DSrYYkrgdu3PODzPaywAPU7dy0z0eDf3jp2SCWBQ-ywFWPdCGkmjBInnbZJUFs2ML1dA17mdgboqaIX3Eh711VCwXts9U0wCLC9GG11Lk-NUf-JyVlX-3acZSMusBQDuiv1oQNRKuiPxcdCWxnWQLloOjejHrooVKvvf98k_PRg18",
+        "alt": "ساعة ذكية تيتانيوم"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrAs_IfdqFxuEHVQAmF8Fe9Mobp78klxVuH0MR9PRZJMc0pryFqKTUHGinXy3Bj4DTLKkCPQCvVJRcl2pLcv_SdXjvZfXnycdIvtsV1MMUsKwlRCC8BKUiTLhIymUt4V7TA9GLw-LaQi1Urlm4B_RBq3YLAXnyicvrcUW8EnUs5jYrvf9ZKOaV5ZWCUfuHvMpkbcAkLSuQNT99PMwAmqV0NVy7aaHSEqJPh3F9eBU8Emnr7k2XA",
+        "alt": "كرسي استرخاء"
+      }
+    ],
+    "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_6\\code.html": [
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrBqutIDYy67J9UeC1mjv-fMnNxfotY4ydhwjbEom8YhWSyGIeOrwvLi5HpBguLr9KWgjpP37nyVXkegIxvW0KhTcVduZe-tIQIsoTDvgXEq_IOjU69hXNXQNluDPHjdP_iSTB4WQIy9TyCtLBxkmBPS3r95FDLacGrI3X8M6VUfALVNhJujvwI-kJvgu6s_RW7NRlJyfYVusbuUUIsBJ5ifZ2UT7e6K50X6kAQy968idTX_iOHqdvJN34Y",
+        "alt": "سماعة لاسلكية"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrBF3z6-4mHFCvSmoG_gXH3qKfMoa7QNMJW7h1fbLbWF0371XodmrqwfvZHSwcSGRh73skQAlgne-yMEJ4tMahpu_InfWyHsxrBk5NDxwZkcN387tANz6iSs46URr-JADxQWq-YBAaUQHYKsxJsas5cGDz9MktU57U2DsuATic7YZnEPCAT9CI23HME9viVmayYmotg8-U1QwJDP7H--pAGElIOCGtINRBZOllOVMKnTYDxX1pcH8uRZ",
+        "alt": "ماكينة إسبريسو"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrAs_IfdqFxuEHVQAmF8Fe9Mobp78klxVuH0MR9PRZJMc0pryFqKTUHGinXy3Bj4DTLKkCPQCvVJRcl2pLcv_SdXjvZfXnycdIvtsV1MMUsKwlRCC8BKUiTLhIymUt4V7TA9GLw-LaQi1Urlm4B_RBq3YLAXnyicvrcUW8EnUs5jYrvf9ZKOaV5ZWCUfuHvMpkbcAkLSuQNT99PMwAmqV0NVy7aaHSEqJPh3F9eBU8Emnr7k2XA",
+        "alt": "كرسي استرخاء"
+      }
+    ],
+    "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_7\\code.html": [
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrBSH3Iyyi8QvOxbGbLi7ekHJ3H36uyRTUunwGzrwVmMbJwZjiLwVXBSK64MZ-S_Th9aF2Mo2VTtPO82nqUG_K9lbCtitSTRZ1Rsu-oDjvf0k85Gw7I4BYMF2iodtOC3fgJ8hnIvk55Kq1jYJqfCZfJExL7ViD1KIegqMrmVa4qKef9WsdnNQBlOgEesJ9rxjlI5WmYXhaH6TATz2MgpGr_uXDdKKznQl_5BmeHLktcz7dogBrYmcRtPJCQA",
+        "alt": "عالم التقنية"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrD_ptz5mC5c7Azj7P4HmNAnBusk4m-iUXciLCgxFkXn2fyAABnCj43HSn6ImtTEXK2dzyhOK5PagMW_1gHYScPYH9hBXQXwj0YPfN_BpQxN1qneeEz1BCI-eI7Sqth5as3jF1R01uaHSWbZ4WvubTfph1ggTMjAieWinkg9DGQ0tkbAi5Wh_6hkBJi58RE6pSYP3rlZlHHHfkFtSEn_WkCnd8k-QwaYly7T3sAFD23SdvfYUWrIGWJ8jIfvRz2C",
+        "alt": "لمسة للعطور"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrBeTJRD37_XrcDmdGfNyy_L1iL76-TzhQt8DPkHkQU4vLo83mB0e3OsumvJAIW8r97s3cR0-h5bqXF7HJ_rK0sLxA6FBXKMQb1rapnjNATVGZuwiZShiJtTAsFP3W6i8v9ihfzk5VIiH0H7FhacV0hKLAY3xDz82vh2JcOqqkkocalVYvZ_L0mkmGN9QoqXwm8X6ztP8PBQ30D-xZ2RmxA8jEzAqdTHxgSItKr3noKjcqGKLRkSuH9s-daa",
+        "alt": "بيتي للأثاث"
+      }
+    ],
+    "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_8\\code.html": [
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrBSH3Iyyi8QvOxbGbLi7ekHJ3H36uyRTUunwGzrwVmMbJwZjiLwVXBSK64MZ-S_Th9aF2Mo2VTtPO82nqUG_K9lbCtitSTRZ1Rsu-oDjvf0k85Gw7I4BYMF2iodtOC3fgJ8hnIvk55Kq1jYJqfCZfJExL7ViD1KIegqMrmVa4qKef9WsdnNQBlOgEesJ9rxjlI5WmYXhaH6TATz2MgpGr_uXDdKKznQl_5BmeHLktcz7dogBrYmcRtPJCQA",
+        "alt": "عالم التقنية"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrD_ptz5mC5c7Azj7P4HmNAnBusk4m-iUXciLCgxFkXn2fyAABnCj43HSn6ImtTEXK2dzyhOK5PagMW_1gHYScPYH9hBXQXwj0YPfN_BpQxN1qneeEz1BCI-eI7Sqth5as3jF1R01uaHSWbZ4WvubTfph1ggTMjAieWinkg9DGQ0tkbAi5Wh_6hkBJi58RE6pSYP3rlZlHHHfkFtSEn_WkCnd8k-QwaYly7T3sAFD23SdvfYUWrIGWJ8jIfvRz2C",
+        "alt": "لمسة للعطور"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrBeTJRD37_XrcDmdGfNyy_L1iL76-TzhQt8DPkHkQU4vLo83mB0e3OsumvJAIW8r97s3cR0-h5bqXF7HJ_rK0sLxA6FBXKMQb1rapnjNATVGZuwiZShiJtTAsFP3W6i8v9ihfzk5VIiH0H7FhacV0hKLAY3xDz82vh2JcOqqkkocalVYvZ_L0mkmGN9QoqXwm8X6ztP8PBQ30D-xZ2RmxA8jEzAqdTHxgSItKr3noKjcqGKLRkSuH9s-daa",
+        "alt": "بيتي للأثاث"
+      }
+    ],
+    "reference-light\\stitch_surge_arabic_marketplace_storefront\\surge_9\\code.html": [
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrBSH3Iyyi8QvOxbGbLi7ekHJ3H36uyRTUunwGzrwVmMbJwZjiLwVXBSK64MZ-S_Th9aF2Mo2VTtPO82nqUG_K9lbCtitSTRZ1Rsu-oDjvf0k85Gw7I4BYMF2iodtOC3fgJ8hnIvk55Kq1jYJqfCZfJExL7ViD1KIegqMrmVa4qKef9WsdnNQBlOgEesJ9rxjlI5WmYXhaH6TATz2MgpGr_uXDdKKznQl_5BmeHLktcz7dogBrYmcRtPJCQA",
+        "alt": "غلاف متجر عالم التقنية"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrBqutIDYy67J9UeC1mjv-fMnNxfotY4ydhwjbEom8YhWSyGIeOrwvLi5HpBguLr9KWgjpP37nyVXkegIxvW0KhTcVduZe-tIQIsoTDvgXEq_IOjU69hXNXQNluDPHjdP_iSTB4WQIy9TyCtLBxkmBPS3r95FDLacGrI3X8M6VUfALVNhJujvwI-kJvgu6s_RW7NRlJyfYVusbuUUIsBJ5ifZ2UT7e6K50X6kAQy968idTX_iOHqdvJN34Y",
+        "alt": "سماعة لاسلكية برو"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrBSj9mtZQgs7fn4EOoBjx3gEE0eB7zecpoSvx9-pXntwflxhI93_M7ensfOec5STXFC5fnK3yUzf2DSrYYkrgdu3PODzPaywAPU7dy0z0eDf3jp2SCWBQ-ywFWPdCGkmjBInnbZJUFs2ML1dA17mdgboqaIX3Eh711VCwXts9U0wCLC9GG11Lk-NUf-JyVlX-3acZSMusBQDuiv1oQNRKuiPxcdCWxnWQLloOjejHrooVKvvf98k_PRg18",
+        "alt": "ساعة ذكية تيتانيوم"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida/ALJJyrDt8wrFbwY017sIgxsV2jmMobO3tbnXNX3zIDCOS_K4hZxPA0cYipRcH5ch12QW7ByJI5KrwX7N-GAQ1hXukDuwN90WQSmzFQR7TRt8HwOf6G0finCytiKQSqp2b_NqPhX2oQX5gCBsn8l1DSihfwM-GG7oIX_8FaEZ_akxGF3GeoRxmvFn_ANcgQoBXl1-THer7Zh-FIU9z-Cr6vS2Y06HFgLH-IwKH4r8cVo8kKHJtC-VRizqOS_iBQyHEF73KA",
+        "alt": "حقيبة حماية للسماعات"
+      }
+    ]
+  }
+}

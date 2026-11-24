@@ -1,0 +1,41 @@
+const {chromium}=require('playwright');
+const {pathToFileURL}=require('url');
+const path=require('path');
+(async()=>{
+ const browser=await chromium.launch({headless:true,executablePath:'C:/Program Files/Google/Chrome/Application/chrome.exe'});
+ const url=pathToFileURL(path.join(__dirname,'..','index.html')).href;
+ for(const [width,theme] of [[390,'light'],[768,'dark'],[1440,'light'],[1440,'dark']]){
+  const page=await browser.newPage({viewport:{width,height:900},reducedMotion:'reduce'}),errors=[];
+  page.on('pageerror',e=>errors.push(e.message));
+  await page.route('https://lh3.googleusercontent.com/**',r=>r.abort());
+  await page.goto(url);
+  await page.evaluate(t=>{const s=JSON.parse(localStorage.getItem('surge.demo.v1')||'{}');s.theme=t;localStorage.setItem('surge.demo.v1',JSON.stringify(s))},theme);
+  await page.reload();
+  await page.evaluate(()=>document.querySelectorAll('.categories img').forEach(i=>i.loading='eager'));
+  await page.waitForFunction(()=>Array.from(document.querySelectorAll('.categories img')).every(i=>i.complete&&i.naturalWidth>0));
+  if(await page.locator('.hero-dot').count()!==3)errors.push('hero slide count');
+  if(await page.locator('.categories .category').count()!==8)errors.push('category count');
+  if(await page.locator('.head-actions svg').count()<3)errors.push('header icons');
+  await page.locator('[data-action=hero-next]').click();
+  if(!(await page.locator('.hero-copy h1').innerText()).includes('منزلك دفئاً'))errors.push('furniture slide');
+  if(await page.locator('.hero-copy .hero-cta').getAttribute('href')!=='#products?category=home')errors.push('furniture link');
+  await page.waitForFunction(()=>document.querySelector('.hero-slide.is-active .hero-image').complete&&document.querySelector('.hero-slide.is-active .hero-image').naturalWidth>0);
+  await page.waitForFunction(()=>{const img=document.querySelector('.promo[href="#products?category=home"] img');return img.complete&&img.naturalWidth>0});
+  if(await page.locator('.hero-slide.is-active .hero-image').getAttribute('src')!==await page.locator('.promo[href="#products?category=home"] img').getAttribute('src'))errors.push('furniture image mismatch');
+  await page.locator('[data-action=hero-prev]').click();
+  if(!(await page.locator('.hero-copy h1').innerText()).includes('كل ما تحتاجه'))errors.push('previous slide');
+  const before=await page.locator('.categories').evaluate(e=>e.scrollLeft);
+  await page.locator('[data-action=categories-next]').click();
+  const after=await page.locator('.categories').evaluate(e=>e.scrollLeft);
+  if(before===after)errors.push('category next button');
+  if(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth))errors.push('horizontal overflow');
+  await page.screenshot({path:`screenshots/home-ui-${theme}-${width}.png`});
+  await page.locator('.category[href="#products?category=home"]').click();
+  await page.waitForURL('**#products?category=home');
+  if(await page.locator('[name=category][value=home]').isChecked()!==true)errors.push('category link');
+  if(errors.length)throw new Error(`${theme} ${width}: ${errors.join(', ')}`);
+  console.log('PASS',theme,width,'hero, categories, icons and responsive layout');
+  await page.close();
+ }
+ await browser.close();
+})().catch(e=>{console.error(e);process.exit(1)});

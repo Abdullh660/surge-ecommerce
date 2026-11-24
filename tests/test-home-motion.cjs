@@ -1,0 +1,20 @@
+const {chromium}=require('playwright');
+const {pathToFileURL}=require('url');
+const path=require('path');
+(async()=>{
+ const browser=await chromium.launch({headless:true,executablePath:'C:/Program Files/Google/Chrome/Application/chrome.exe'});
+ const page=await browser.newPage({viewport:{width:1440,height:900}}), errors=[];
+ page.on('pageerror',e=>errors.push(e.message));
+ await page.route('https://lh3.googleusercontent.com/**',r=>r.abort());
+ await page.goto(pathToFileURL(path.join(__dirname,'..','index.html')).href);
+ await page.mouse.move(0,0);
+ await page.waitForTimeout(7200);
+ if(await page.locator('.hero-dot[aria-pressed=true]').getAttribute('data-id')!=='1')errors.push('hero did not advance');
+ if(await page.locator('.categories').evaluate(e=>e.scrollLeft)===0)errors.push('categories did not advance');
+ const card=page.locator('.product-card').first();
+ await card.scrollIntoViewIfNeeded();await card.hover();await page.waitForTimeout(300);
+ if(await card.evaluate(e=>getComputedStyle(e).transform)==='none')errors.push('card hover missing');
+ if(errors.length)throw new Error(errors.join(', '));
+ console.log('PASS automatic hero, category movement, and card hover');
+ await browser.close();
+})().catch(e=>{console.error(e);process.exit(1)});

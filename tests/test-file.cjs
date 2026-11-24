@@ -1,0 +1,26 @@
+const {chromium} = require('playwright');
+const {pathToFileURL} = require('url');
+const path = require('path');
+(async () => {
+  const browser = await chromium.launch({headless:true, executablePath:'C:/Program Files/Google/Chrome/Application/chrome.exe'});
+  const page = await browser.newPage({viewport:{width:390,height:844}});
+  const errors = [];
+  page.on('pageerror', e => errors.push(e.message));
+  const url = pathToFileURL(path.join(__dirname, '..', 'index.html')).href + '?demo=1';
+  await page.goto(url);
+  await page.waitForSelector('.hero');
+  await page.locator('[data-action="quick-add"][data-id="headphones"]').first().click();
+  await page.waitForURL('**#product?id=headphones');
+  await page.locator('[data-action="add-detail"]').click();
+  await page.locator('a[href="#cart"]').first().click();
+  if (await page.locator('.cart-item').count() !== 1) errors.push('cart item missing');
+  await page.locator('[data-action="theme"]').first().click();
+  await page.reload();
+  if (await page.locator('html').getAttribute('data-theme') !== 'dark') errors.push('theme did not persist');
+  if (await page.locator('.cart-item').count() !== 1) errors.push('cart did not persist');
+  const broken = await page.locator('img').evaluateAll(xs => xs.filter(x => x.complete && !x.naturalWidth).map(x => x.src));
+  if (broken.length) errors.push('broken images: ' + broken.join(', '));
+  console.log(errors.length ? errors.join('\n') : 'PASS: file:// homepage, product, cart, theme and persistence');
+  await browser.close();
+  if (errors.length) process.exit(1);
+})().catch(e => {console.error(e); process.exit(1)});

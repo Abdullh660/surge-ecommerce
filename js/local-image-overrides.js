@@ -4,6 +4,7 @@
     hero: 'assets/images/unnamed.jpg',
     techHero: 'assets/images/unnamed (8).jpg',
     smartPromo: 'assets/images/unnamed (6).jpg',
+    smartWatch: 'assets/images/unnamed (6).jpg',
     coffee: 'assets/images/unnamed (10).jpg',
     shoes: 'assets/images/unnamed (9).jpg',
     serum: 'assets/images/unnamed (5).jpg',
@@ -15,6 +16,7 @@
 
   function applyLocalImage(img) {
     if (!(img instanceof HTMLImageElement)) return;
+
     const slide = img.closest('.hero-slide');
     if (slide) {
       const index = Number(slide.dataset.slide);
@@ -24,7 +26,8 @@
     }
 
     const alt = img.alt || '';
-    if (alt.includes('ماكينة تحضير الإسبريسو بضغط 15 بار')) img.src = imagePaths.coffee;
+    if (alt.includes('ساعة ذكية رياضية بإطار تيتانيوم وتتبع نبض القلب')) img.src = imagePaths.smartWatch;
+    else if (alt.includes('ماكينة تحضير الإسبريسو بضغط 15 بار')) img.src = imagePaths.coffee;
     else if (alt.includes('حذاء جري رياضي مريح بنعل مزدوج')) img.src = imagePaths.shoes;
     else if (alt.includes('مجموعة العناية اليومية: سيروم فيتامين C')) img.src = imagePaths.serum;
     else if (alt.includes('كرسي استرخاء عصري من خشب البلوط')) img.src = imagePaths.chair;
